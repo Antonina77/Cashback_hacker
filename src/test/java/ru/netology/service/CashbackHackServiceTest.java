@@ -6,7 +6,7 @@ import org.testng.Assert;
 
 import static org.testng.AssertJUnit.assertEquals;
 
-class CashbackHackServiceTest {
+public class CashbackHackServiceTest {
 
     @Test
     void shouldReturn100IfAmountIs900() {
